@@ -1,5 +1,5 @@
 Title:
-Data-Driven Passivator Optimization for Perovskite Solar Cells
+Data Driven Optimization of Passivation Molecules for Perovskite Solar Cells
 
 Abstract:
 Perovskite solar cells (PSCs) offer high efficiency and cost-effectiveness but face significant long-term stability issues that limit commercial viability. To address this, passivating molecules can enhance PSC stability, though identifying effective candidates is typically a slow, trial-and-error process. This study presents a machine learning framework to streamline this discovery by analyzing relevant past scientific literature. We constructed various LLM models to task a complex extraction to pull out essential data in the literature to create a database for predictive modeling. By automating literature review and prediction, we accelerate the identification of potential passivation for PSC stability improvement.
